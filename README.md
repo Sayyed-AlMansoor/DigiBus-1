@@ -73,7 +73,7 @@ $ python app.py
 - [ ] Ability to book Bus Tickets
 - [x] Giving users the ability to change their Username, E-Mail and Profile Picture.
 - [ ] Integrating the Website with a Payment Gateway.
-- [x] Transactions using DigiBus Wallet
+- [x] Transactions using the DigiBus Wallet
 - [ ] Administrator privileges for accessing user data and monitoring transactions.
 
 ## License 
